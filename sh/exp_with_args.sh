@@ -128,8 +128,8 @@ elif [[ $MODEL_TAG == treebert ]]; then
   MODEL_PATH=miguelvictor/python-t5-base
 elif [[ $MODEL_TAG == syncobert ]]; then
   MODEL_TYPE=roberta
-  TOKENIZER=microsoft/unixcoder-base-unimodal
-  MODEL_PATH=microsoft/unixcoder-base-unimodal
+  TOKENIZER=niuca/syncobert
+  MODEL_PATH=niuca/syncobert
 elif [[ $MODEL_TAG == cbert ]]; then
   MODEL_TYPE=roberta
   TOKENIZER=MickyMike/codebert-c
