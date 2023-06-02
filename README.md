@@ -17,3 +17,6 @@
 | CodeT5          | https://huggingface.co/Salesforce/codet5-small                                     | https://github.com/salesforce/CodeT5                                           |
 | TreeBERT        | https://github.com/17385/TreeBERT                                                  | https://github.com/17385/TreeBERT                                              |
 | SPT-Code        | https://github.com/NougatCA/SPT-Code                                               | https://github.com/NougatCA/SPT-Code                                           |
+
+
+Some other artifacts, such as pre-trained checkpoints, source code, etc., for each models are available [here](https://1drv.ms/u/s!Aj4XBdlu8BS0goRalkMWsKrVxz6CWg?e=bexLmc).
